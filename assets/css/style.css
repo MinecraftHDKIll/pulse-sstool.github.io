@@ -172,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: RGB(50, 10, 154, 255);
+  color: RGB(80, 40, 184, 255);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: RGB(50, 10, 154, 255);
+  color: RGB(80, 40, 184, 255);
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: RGB(80, 40, 184, 255);
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .navbar .getstarted:hover, .navbar .getstarted:focus:hover {
   color: #fff;
-  background: RGB(50, 10, 154, 255);
+  background: RGB(80, 40, 184, 255);
    
 }
 .navbar .dropdown ul {
